@@ -1,0 +1,3 @@
+displayName = myFirstMod
+author = Coozer
+version = 0.1
